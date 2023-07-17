@@ -1,0 +1,3 @@
+buat game
+- merancang game
+- membuat animasi
